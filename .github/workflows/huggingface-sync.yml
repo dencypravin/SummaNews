@@ -1,0 +1,26 @@
+name: Sync to Hugging Face
+
+on:
+  push:
+    branches:
+      - main  # Change to your branch if needed
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Git
+        run: |
+          git config --global user.email "dencypreena2003@gmail.com"
+          git config --global user.name "dencypravin"
+
+      - name: Push to Hugging Face
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          git remote add hf https://dencypravin:$HF_TOKEN@huggingface.co/spaces/dencypravin/SummaNews
+          git push hf main --force
