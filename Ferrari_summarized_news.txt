@@ -1,0 +1,43 @@
+Company: Ferrari
+Sentiment Distribution: {'Positive': 7, 'Negative': 1, 'Neutral': 2}
+================================================================================
+Title: “Worse than I thought it would go”: Lewis Hamilton's Ferrari debut disrupted by miscommunication and wet - The Times of India
+Summary: Lewis Hamilton's Ferrari debut disrupted by miscommunication and wet. Lewis Hamilton & Charles Leclerc caught out in rain chaos as Ferrari defends risky tyre strategy. The hope Ferrari's clinging to with its 2025 F1 car.
+Sentiment: Negative
+--------------------------------------------------
+Title: Ferrari's clientele demographics are changing: More young enthusiasts enter the fold - HT Auto
+Summary: Ferrari's clientele demographics are changing: More young enthusiasts enter the fold    HT Auto
+Sentiment: Positive
+--------------------------------------------------
+Title: Ferrari car buyers are getting younger. CEO says 40% of new clients are now under 40 - CNBC
+Summary: Ferrari car buyers are getting younger. CEO says 40% of new clients are now under 40    CNBC
+Sentiment: Positive
+--------------------------------------------------
+Title: Ferrari Sees Huge Surge In Young Buyers As It Gears Up For EVs - CarScoops
+Summary: Ferrari Sees Huge Surge In Young Buyers As It Gears Up For EVs    CarScoops
+Sentiment: Positive
+--------------------------------------------------
+Title: F1: McLaren's Lando Norris wins Australian GP, Lewis Hamilton 10th in Ferrari debut - India Today
+Summary: F1: McLaren's Lando Norris wins Australian GP, Lewis Hamilton 10th in Ferrari debut    India Today
+Sentiment: Positive
+--------------------------------------------------
+Title: Indian Entrepreneur's Journey From Broken House To Ferrari, G-Wagen, Porsche Is Inspiring [Video] - CarToq.com
+Summary: Indian Entrepreneur's Journey From Broken House To Ferrari, G-Wagen, Porsche Is Inspiring [Video]    CarToq.com
+Sentiment: Positive
+--------------------------------------------------
+Title: Australian GP: Hamilton’s F1 Ferrari debut in Melbourne, Verstappen-Norris - Al Jazeera English
+Summary: Australian GP: Hamilton’s F1 Ferrari debut in Melbourne, Verstappen-Norris    Al Jazeera English
+Sentiment: Neutral
+--------------------------------------------------
+Title: Hamilton reflects on 'incredible feeling' after Ferrari pre-season testing debut | Formula 1® - Formula 1
+Summary: Hamilton reflects on 'incredible feeling' after Ferrari pre-season testing debut | Formula 1®    Formula 1
+Sentiment: Positive
+--------------------------------------------------
+Title: Ferrari CEO says automaker is doing 'scenario planning' to counter potential impact of tariffs - CNBC
+Summary: Ferrari CEO says automaker is doing 'scenario planning' to counter potential impact of tariffs    CNBC
+Sentiment: Neutral
+--------------------------------------------------
+Title: Lewis Hamilton’s Ferrari F1 debut draws near at Australian GP in Melbourne - Al Jazeera English
+Summary: Lewis Hamilton’s Ferrari F1 debut draws near at Australian GP in Melbourne    Al Jazeera English
+Sentiment: Positive
+--------------------------------------------------
